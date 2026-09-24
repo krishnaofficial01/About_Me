@@ -1,8 +1,26 @@
 # About Me
 ## 👋Hi, I'm Krishna 
-I'm an Accounts & Administrative professional with
-an interest in technology and programming.
-Alongside my professional work, 
-I enjoy exploring how technology can simplify everyday tasks,
-improve productivity, and solve real-world problems
 
+📊 Accounts & Administrative Professional | 💻 Technology Enthusiast | 🌱 Continuous Learner
+
+I'm an Accounts & Administrative professional with a strong interest in technology.
+
+I enjoy exploring how technology can simplify processes, improve productivity, and solve real-world challenges.
+
+I'm continuously developing my technical skills and looking for opportunities to combine my business knowledge, problem-solving mindset, and passion for technology to create practical and efficient solutions.
+
+🎯 Areas of Interest
+
+- 📊 Accounts & Administration
+- 💻 Computation 
+- 💡 Critical Thinking & Problem solving 
+- 🤖 AI & Emerging Technologies
+- 📚 Continuous Learning
+
+«“Curiosity drives me to learn. Practical thinking drives me to build.”»
+
+Thanks for visiting my profile! 🚀
+
+<p align="center">
+  <b> நன்றி 🙏</b>
+</p>
