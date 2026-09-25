@@ -10,11 +10,9 @@ I enjoy exploring how technology can simplify processes, improve productivity, a
 I'm continuously developing my technical skills and looking for opportunities to combine my business knowledge, problem-solving mindset, and passion for technology to create practical and efficient solutions.
 
 🎯 Areas of Interest
-
-- 📊 Accounts & Administration
-- 💻 Computation 
+- 💻 Computing & Technology 
 - 💡 Critical Thinking & Problem solving 
-- 🤖 AI & Emerging Technologies
+- ⚙️ Process Optimization 
 - 📚 Continuous Learning
 
 «“Curiosity drives me to learn. Practical thinking drives me to build.”»
